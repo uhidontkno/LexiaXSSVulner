@@ -4,5 +4,5 @@
 Example: https://www.lexiapowerup.com/?siteId=_&logoutUrl=%6A%61%76%61%73%63%72%69%70%74%3A%61%6C%65%72%74%28%27%72%65%61%6C%27%29
 
 **Note**: `siteId` can be anything, it will not matter. Only `logoutUrl` matters.
-* You may need to percent encode the entire code snipper, go to 
+* You may need to percent encode the entire code snippet, go to 
 <https://onlinetexttools.com/url-encode-text> and paste in the code and click Escape All Text Characters for it to work properly, then paste the output into the URL
